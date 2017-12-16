@@ -6,7 +6,6 @@
 
 <p style="font-size: 20px">三浦 信二(@40balmung)</p>
 <p style="font-size: 20px">フリーランスのソフトウェアエンジニア</p>
-<p style="font-size: 20px">海外渡航歴：韓国/台湾/上海/アメリカ</p>
 
 ---?image=assets/image/lukas_blazek.jpg
 ### 今回お話したいこと
