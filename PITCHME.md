@@ -1,14 +1,8 @@
 ## エンジニアが海外でリモートワークしてきました
 
-##### 忘年×クリスマスイブ×LT祭 2017
+### 忘年×クリスマスイブ×LT祭 2017
 
-<p style="text-align:center;float: left;">
-![ProfileImage](assets/profile.jpg)
-<span>三浦 信二(@40balmung)</span>
-</p>
-<br style="clear: both;">
-
-
+#### 三浦 信二(@40balmung)
 <p style="font-size: 30px">フリーランスのソフトウェアエンジニア</p>
 <p style="font-size: 30px">海外渡航歴：韓国/台湾/上海/アメリカ</p>
 
