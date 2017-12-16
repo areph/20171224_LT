@@ -4,9 +4,10 @@
 
 ![ProfileImage](assets/profile.jpg)
 
-<p style="font-size: 15px">三浦 信二(@40balmung)</p>
-<p style="font-size: 10px">フリーランスのソフトウェアエンジニア</p>
-<p style="font-size: 10px">海外渡航歴：韓国/台湾/上海/アメリカ</p>
+三浦 信二(@40balmung)
+
+<p style="font-size: 20px">フリーランスのソフトウェアエンジニア</p>
+<p style="font-size: 20px">海外渡航歴：韓国/台湾/上海/アメリカ</p>
 
 
 ---
