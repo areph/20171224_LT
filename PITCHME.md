@@ -1,10 +1,9 @@
 
 ---?image=assets/image/ivan_televnyy.jpg
 
-<div class="white">
-### エンジニアがアメリカでリモートワークしてきました
+### <span class="white">エンジニアがアメリカでリモートワークしてきました</span>
 
-#### 忘年×クリスマスイブ×LT祭 2017
+#### <span class="white">忘年×クリスマスイブ×LT祭 2017</span>
 
 
 +++?image=assets/image/lukas_blazek.jpg
@@ -12,7 +11,6 @@
 三浦 信二(@40balmung)
 <p style="font-size: 30px">フリーランスのソフトウェアエンジニア</p>
 <p style="font-size: 30px">海外渡航歴：韓国/台湾/上海/アメリカ</p>
-</div>
 
 ---?image=assets/image/lukas_blazek.jpg
 ### 今回お話したいこと
