@@ -2,8 +2,7 @@
 
 ### 忘年×クリスマスイブ×LT祭 2017
 
-
-
+<br style="margin-top: 200px">
 
 三浦 信二(@40balmung)
 <p style="font-size: 30px">フリーランスのソフトウェアエンジニア</p>
