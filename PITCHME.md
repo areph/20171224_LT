@@ -6,6 +6,7 @@
 ![ProfileImage](assets/profile.jpg)
 <span>三浦 信二(@40balmung)</span>
 </p>
+<br style="clear: both;">
 
 
 <p style="font-size: 30px">フリーランスのソフトウェアエンジニア</p>
