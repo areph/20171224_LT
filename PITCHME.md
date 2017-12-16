@@ -75,6 +75,6 @@
 - ※保証はできません |
 
 ---?image=assets/image/gitpitch-audience.jpg
-### おしまい
+### <span style="color:white">おしまい</span>
 
-#### みんなもっと海外へ行こう！一度行けば次は簡単！
+#### <span style="color:white">みんなもっと海外へ行こう！一度行けば次は簡単！</span>
