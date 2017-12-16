@@ -2,14 +2,13 @@
 
 ##### 忘年×クリスマスイブ×LT祭 2017
 
-![ProfileImage](assets/profile.jpg){.pull-left}
+![ProfileImage](assets/profile.jpg)
 三浦 信二(@40balmung)
 <div class="clearfix"></div>
 
 
-
-<p style="font-size: 20px">フリーランスのソフトウェアエンジニア</p>
-<p style="font-size: 20px">海外渡航歴：韓国/台湾/上海/アメリカ</p>
+<p style="font-size: 30px">フリーランスのソフトウェアエンジニア</p>
+<p style="font-size: 30px">海外渡航歴：韓国/台湾/上海/アメリカ</p>
 
 ---
 ### 今回お話したいこと
