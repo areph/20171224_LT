@@ -2,8 +2,8 @@
 
 ##### 忘年×クリスマスイブ×LT祭 2017
 
-<p>
-  <img src="assets/profile.jpg" width="100" style="float: left;">
+<p style="text-align:center;">
+  <img src="assets/profile.jpg" width="100" height="100" style="float: left;">
   <span>三浦 信二(@40balmung)</span>
 </p>
 
