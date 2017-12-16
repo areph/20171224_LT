@@ -4,8 +4,7 @@
 
 ##### 忘年×クリスマスイブ×LT祭 2017
 
-<p style="font-size: 30px">三浦 信二(@40balmung)</p>
-<p style="font-size: 30px">フリーランスのソフトウェアエンジニア</p>
+<p style="font-size: 30px">三浦 信二(@40balmung):フリーランスのソフトウェアエンジニア</p>
 
 ---?image=assets/image/lukas_blazek.jpg
 ### 今回お話したいこと
