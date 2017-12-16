@@ -3,8 +3,8 @@
 ##### 忘年×クリスマスイブ×LT祭 2017
 
 ![ProfileImage](assets/profile.jpg)
-三浦 信二(@40balmung)
-<div class="clearfix"></div>
+<img src="assets/profile.jpg" width="100" style="float: left;">
+<span>三浦 信二(@40balmung)</span>
 
 
 <p style="font-size: 30px">フリーランスのソフトウェアエンジニア</p>
